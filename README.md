@@ -3,7 +3,7 @@
 
 ### You can reach out to me on [LinkedIn](https://www.linkedin.com/in/sanghamitra-biswas/)📫
 
-###- ⚡ Fun fact: I blog as well, where I write about really **coool😉** stuff. Go check that out. ***https://sanghamitra427699292.wordpress.com/***
+####⚡ Fun fact: I blog as well, where I write about really **coool😉** stuff. Go check that out. ***https://sanghamitra427699292.wordpress.com/***
 
 <!--
 **sangy987/sangy987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
