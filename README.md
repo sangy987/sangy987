@@ -3,7 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/sanghamitra-biswas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/sanghamitra-biswas/" height="30" width="40" /></a>
 <a href="https://kaggle.com/kungfupanda199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kungfupanda199" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kungfupanda199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kungfupanda199" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/allaboutstartingup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="allaboutstartingup" height="30" width="40" /></a>
